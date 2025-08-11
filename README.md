@@ -116,5 +116,7 @@ kubectl logs <ex name>
 ``` 
 
 ![pod](screenshots/1.png)
+
 ![pod](screenshots/2.png)
+
 ![pod](screenshots/3.png)
